@@ -9,7 +9,8 @@
 
 ## If you want to stay in touch
 ?? Twitter/X: @luisedvas
-?? LinkedIn: Luis Eduardo Díaz
+
+?? LinkedIn: [Luis Eduardo Díaz](https://www.linkedin.com/in/luisediazv/)
 
 <!---
 luisediazv/luisediazv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
