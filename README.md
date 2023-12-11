@@ -8,9 +8,10 @@
 - I'm interested in learning different web-based tools, frameworks and programming languages such as C++, Python, JavaScript/TypeScript and React.
 
 ## If you want to stay in touch
-?? Twitter/X: @luisedvas
 
-?? LinkedIn: [Luis Eduardo Díaz](https://www.linkedin.com/in/luisediazv/)
+Twitter/X: [@luisedvas](https://twitter.com/luisedvas)
+
+LinkedIn: [Luis Eduardo Díaz](https://www.linkedin.com/in/luisediazv/)
 
 <!---
 luisediazv/luisediazv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
