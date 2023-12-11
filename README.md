@@ -9,7 +9,7 @@
 
 ## If you want to stay in touch
 
-Twitter/X: [@luisedvas](https://twitter.com/luisedvas)
+Twitter/𝕏: [@luisedvas](https://twitter.com/luisedvas)
 
 LinkedIn: [Luis Eduardo Díaz](https://www.linkedin.com/in/luisediazv/)
 
