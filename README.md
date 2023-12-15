@@ -9,9 +9,9 @@
 
 ## If you want to stay in touch
 
-𝕏: [@luisedvas](https://twitter.com/luisedvas)
+**𝕏:** [@luisedvas](https://twitter.com/luisedvas)
 
-LinkedIn: [Luis Eduardo Díaz](https://www.linkedin.com/in/luisediazv/)
+**LinkedIn:** [Luis Eduardo Díaz](https://www.linkedin.com/in/luisediazv/)
 
 <!---
 luisediazv/luisediazv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
