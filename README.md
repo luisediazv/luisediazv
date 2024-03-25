@@ -1,7 +1,6 @@
-# I'm Luis.
-## I'm an architecture student from Venezuela.
+# About me
 
-### About me
+I'm Luis. I'm an architecture student from Venezuela.
 
 - I have working experience with typical AEC software tools (Revit, Rhino and AutoCAD).
 - I love architecture and recently I started learning about software engineering as an interest in building for the AEC industry.
