@@ -4,7 +4,7 @@ I'm Luis. I'm an architecture student from Venezuela.
 
 - I have working experience with typical AEC software tools (Revit, Rhino and AutoCAD).
 - I love architecture and recently I started learning about software engineering as an interest in building for the AEC industry.
-- I'm interested in learning different web-based tools and programming languages such as C, Python and JavaScript.
+- I'm interested in learning different web-based tools and programming languages such as C and Python.
 
 ## If you want to stay in touch
 
